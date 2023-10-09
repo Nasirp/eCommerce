@@ -1,0 +1,36 @@
+.logint_in,.moret_in{
+    display: flex;
+    align-items: center;
+}
+
+.logint_in>.MuiSvgIcon-root,
+.moret_in > .MuiSvgIcon-root{
+    margin-right: 10px;
+    color: #2874f0;
+}
+
+.logint>hr,
+.moret>hr{
+    margin-left: -10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 108.5%;
+    height: 0.5px;
+    background-color: rgb(237, 235, 235);
+    border: none;
+}
+.logint_in:hover,
+.moret_in:hover{
+    background-color: rgb(245, 243, 243);
+}
+.signupLink{
+    
+    text-decoration: none;
+    color: rgb(55, 53, 53);
+
+   
+}
+.signupLink:hover{
+    color: rgb(114, 114, 193);
+    text-decoration:#2874f0;
+}

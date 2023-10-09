@@ -1,0 +1,7 @@
+.moret_in{
+    display: flex;
+    align-items: center;
+}
+.moret_in>.MuiSvgIcon-root{
+    padding: 5px;
+}

@@ -1,0 +1,87 @@
+.main1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 92.5vh;
+    background-color: rgb(163, 190, 191);
+}
+.main-3{
+    background-color: white;
+    padding: 3px;
+    border-radius: 5px;
+    width: 23vw;
+    height: 55vh;
+}
+.mb-3{
+    display: flex;
+    flex-direction: column;
+    font-size: 18px;
+}
+.mb-2{
+    display: flex;
+    flex-direction: column;
+    font-size: 18px;
+   
+}
+.form1{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top:10px;
+    
+}
+.input1>input{
+    height: 100vh; 
+}
+input[type=email]{
+  height: 4vh;
+   width: 20vw;
+}
+input[type=password]{
+    height: 4vh;
+    margin-top: 2px;
+     width: 20vw;
+  }
+  
+.btn{
+    border: none;
+    color: white;
+    margin-top: 20px;
+    background-color: rgb(33, 152, 45);
+    height: 35px;
+    border-radius: 5px;
+    
+    font-size: 17px;
+    width: 20vw;
+}
+.btn1{
+    border: none;
+    color: rgb(9, 9, 9);
+
+    background-color: rgb(196, 205, 197);
+    height: 35px;
+    border-radius: 5px;
+    font-size: 17px;
+    width: 20vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+h2{
+    margin-left:20px ;
+    font-size: px;
+    font-size: 25px;
+    height: 5vh;
+    
+}
+.text-danger{
+    color: rgb(114, 37, 37);
+}
+.H1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
